@@ -1,1 +1,3 @@
-import data from './data.js';
+import event from "./events/clickEvent.js";
+
+event;
